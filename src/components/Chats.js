@@ -87,6 +87,5 @@ const Chats = () => {
         />
     </div>
     )
-    // projectID='8d1e2960-4b4d-4ec2-bc4d-46b72642d1ac'
 }
 export default Chats;
